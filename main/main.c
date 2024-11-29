@@ -8,7 +8,7 @@
 
 static uint8_t XOR_LUT [4] = {
       0,1,1,0
-   };
+};
 
 static uint8_t OR_LUT [4] = {
    0,1,1,1
